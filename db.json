@@ -1,8 +1,26 @@
 {
     "projects": [
         {
-            "title": "OralB",
-            "Note": "13"
+            "name": "MyGalery",
+            "imgName" : "myGalery.png",
+            "description": "Site que j'ai réalisé à l'occasion de ma candidature pour Synerg'Hetic, montrant mes différentes réalisations graphiques.",
+            "grade": "Projet perso",
+            "date":"16/10/20",
+            "siteLink":"https://robinb-dev.github.io/myGallery/",
+
+            "legend":"Galerie de mes réalisations",
+            "legendLink":"",
+            "legendLinkName":"",
+            "lengend2":"",
+      
+            "colorHeart": "none",
+            "colorCheck":"orange",
+            "colorMobile":"red",
+            "colorDesktop":"green",
+
+            "contributorsDisplay":"none",
+            
+            "detailGradeDisplay":"none"
         },
         {
             "title": "DrumPad",
