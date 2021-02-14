@@ -23,8 +23,65 @@
             "detailGradeDisplay":"none"
         },
         {
-            "title": "DrumPad",
-            "Note": "18"
+            
+            "name": "Wire punk",
+            "imgName": "Wirepunk.JPG",
+            "description": "Premier projet professionnel, développement d'un blog en front end.",
+            "grade": "Contrat",
+            "date": "15/06/20",
+            "siteLink": "http://wirepunk.space/",
+            
+
+            "legend": "Le blog technologique et informatique",
+            "legendLink": "",
+            "legendLinkName": "",
+            "lengend2": "",
+            
+
+            "colorHeart": "none",
+            "colorCheck": "green",
+            "colorMobile": "green",
+            "colorDesktop": "green",
+
+
+            "contributorsDisplay": "none",
+            
+
+            "detailGradeDisplay": "none"
+
+        },
+        {
+        
+
+            "name": "Savoir Magazine",
+            "imgName": "savoir.JPG",
+            "description": "Création d'un site pour le journal Savoir, projet de culture générale. La note correspond à l'ensemble du projet et non exclusivement au dev.",
+            "grade": "Note : 17",
+            "date": "19/05/20",
+            "siteLink": "https://robinb-dev.github.io/savoir/",
+            
+
+            "legend": "Site pour le journal de culture générale",
+            "legendLink": "",
+            "legendLinkName": "",
+            "lengend2": "",
+            
+
+            "colorHeart": "none",
+            "colorCheck": "orange",
+            "colorMobile": "orange",
+            "colorDesktop": "green",
+
+
+            "contributorsDisplay": "",
+            "contributor1": "Soliman",
+            "contributor1Link": "https://github.com/soliman-halaby",
+            "contributorLast": "Chris",
+            "contributorLastLink": "https://github.com/Chriiiiiss",
+            "contributorLastDisplay": "",
+            
+
+            "detailGradeDisplay": "none"
         }
     ]
 }
