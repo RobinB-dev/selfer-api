@@ -12,7 +12,7 @@
             "legendLink": "https://www.linkedin.com/in/renaud-berthier/",
             "lengend2": "",
             "colorHeart": "none",
-            "colorCheck": "orange",
+            "colorCheck": "green",
             "colorMobile": "green",
             "colorDesktop": "green",
             "contributorsDisplay": "",
@@ -28,7 +28,7 @@
         {
             "name": "Movie React",
             "imgName": "MovieReact.png",
-            "description": "Site réalisé avec la bibliothèque React.js, utilisation d'une API pour récupérer les données liées aux films et aux séries TV, telles que la notation, le genre ou le synopsis.",
+            "description": "Site réalisé avec la bibliothèque React.js, utilisation d'une API pour récupérer les données liées aux films et aux séries TV (notation, genre, synopsis...)",
             "grade": "Note : --",
             "date": "26/03/21",
             "siteLink": "https://soliman-halaby.github.io/moviereact/#/",
@@ -57,7 +57,7 @@
         {
             "name": "RPG Python",
             "imgName": "RPGGame.png",
-            "description": "Création d'un jeu de type RPG en python avec la bibliothèque Pygame. Le jeu simule la vie d'un étudiant au sein de notre école HETIC.",
+            "description": "Création d'un jeu de type RPG en python avec la bibliothèque Pygame. Le jeu simule la vie au sein de notre école HETIC.",
             "grade": "Note : 18",
             "date": "29/01/21",
             "siteLink": "https://github.com/ValHPLN/RPGGAME",
