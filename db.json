@@ -1,10 +1,82 @@
 {
     "projects": [
         {
+            "name": "Eclipse",
+            "imgName": "Eclipse.png",
+            "description": "Site de présentation d'un produit fictif, réalisé lors d'un projet de design fiction.",
+            "grade": "Note : --",
+            "date": "22/10/21",
+            "siteLink": "https://eclipse-one.vercel.app/",
+            "legend": "Devoir pour ",
+            "legendLinkName": "Grégoire Charrassin",
+            "legendLink": "https://www.linkedin.com/in/gcharrassin/",
+            "lengend2": "",
+            "colorHeart": "none",
+            "colorCheck": "orange",
+            "colorMobile": "orange",
+            "colorDesktop": "green",
+
+            "contributorsDisplay": "none"
+        },
+        {
+            "name": "Popmii",
+            "imgName": "Popmii.png",
+            "description": "Site réalisé avec WordPress pour un servce de communication en réalité augmenté",
+            "grade": "Stage",
+            "date": "12/08/21",
+            "siteLink": "https://www.popmii.com/",
+            "legend": "Développé pour ",
+            "legendLinkName": "Studio Pipelettes",
+            "legendLink": "https://www.studiopipelettes.fr/",
+            "lengend2": "",
+            "colorHeart": "none",
+            "colorCheck": "green",
+            "colorMobile": "green",
+            "colorDesktop": "green",
+
+            "contributorsDisplay": "none"
+        },
+        {
+            "name": "Omaido",
+            "imgName": "Omaido.png",
+            "description": "Site réalisé avec WordPress pour une marque française de soins de beauté",
+            "grade": "Stage",
+            "date": "21/07/21",
+            "siteLink": "https://www.omaido.fr/",
+            "legend": "Développé pour ",
+            "legendLinkName": "Studio Pipelettes",
+            "legendLink": "https://www.studiopipelettes.fr/",
+            "lengend2": "",
+            "colorHeart": "none",
+            "colorCheck": "green",
+            "colorMobile": "green",
+            "colorDesktop": "green",
+
+            "contributorsDisplay": "none"
+        },
+        {
+            "name": "Elle&elles",
+            "imgName": "elleetelles.png",
+            "description": "Site réalisé avec WordPress pour une marque proposant des séjours et des coachings",
+            "grade": "Stage",
+            "date": "30/06/21",
+            "siteLink": "https://www.elleetelles.fr/",
+            "legend": "Développé pour ",
+            "legendLinkName": "Studio Pipelettes",
+            "legendLink": "https://www.studiopipelettes.fr/",
+            "lengend2": "",
+            "colorHeart": "none",
+            "colorCheck": "green",
+            "colorMobile": "green",
+            "colorDesktop": "green",
+
+            "contributorsDisplay": "none"
+        },
+        {
             "name": "CanLinkMe",
             "imgName": "CanLinkMe.png",
             "description": "Création d'un raccourcisseur d'URL avec PHP, utilisation d'une base de données et d'API",
-            "grade": "Note : --",
+            "grade": "Note : 18.5",
             "date": "31/03/21",
             "siteLink": "https://canlink.me/",
             "legend": "Devoir pour ",
@@ -29,7 +101,7 @@
             "name": "Movie React",
             "imgName": "MovieReact.png",
             "description": "Site réalisé avec la bibliothèque React.js, utilisation d'une API pour récupérer les données liées aux films et aux séries TV (notation, genre, synopsis...)",
-            "grade": "Note : --",
+            "grade": "Note : 16",
             "date": "26/03/21",
             "siteLink": "https://soliman-halaby.github.io/moviereact/#/",
             "legend": "Devoir pour ",
@@ -153,7 +225,7 @@
             "contributor1Link": "https://github.com/soliman-halaby",
             "contributorLast": "Chris",
             "contributorLastLink": "https://github.com/Chriiiiiss",
-            "contributorLastDisplay": "",
+            "contributorLastDisplay": "none",
             
 
             "detailGradeDisplay": "none"
