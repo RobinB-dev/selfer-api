@@ -16,7 +16,8 @@
             "colorMobile": "orange",
             "colorDesktop": "green",
 
-            "contributorsDisplay": "none"
+            "contributorsDisplay": "none",
+            "detailGradeDisplay": "none"
         },
         {
             "name": "Popmii",
@@ -34,7 +35,8 @@
             "colorMobile": "green",
             "colorDesktop": "green",
 
-            "contributorsDisplay": "none"
+            "contributorsDisplay": "none",
+            "detailGradeDisplay": "none"
         },
         {
             "name": "Omaido",
@@ -52,7 +54,8 @@
             "colorMobile": "green",
             "colorDesktop": "green",
 
-            "contributorsDisplay": "none"
+            "contributorsDisplay": "none",
+            "detailGradeDisplay": "none"
         },
         {
             "name": "Elle&elles",
@@ -70,7 +73,8 @@
             "colorMobile": "green",
             "colorDesktop": "green",
 
-            "contributorsDisplay": "none"
+            "contributorsDisplay": "none",
+            "detailGradeDisplay": "none"
         },
         {
             "name": "CanLinkMe",
