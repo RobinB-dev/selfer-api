@@ -1,1 +1,8 @@
 node_modules
+
+
+# git add .
+# git commit -m "add project"
+# git push origin HEAD    
+# git push heroku main      
+# heroku open
