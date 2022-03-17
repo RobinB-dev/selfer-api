@@ -1,7 +1,7 @@
 {
-  "name": "projects-api",
+  "name": "selfer-api",
   "version": "1.0.0",
-  "description": "My Projects Api",
+  "description": "My Selfer Api",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobinB-dev/projects-api.git"
+    "url": "git+https://github.com/RobinB-dev/selfer-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RobinB-dev/projects-api/issues"
+    "url": "https://github.com/RobinB-dev/selfer-api/issues"
   },
-  "homepage": "https://github.com/RobinB-dev/projects-api#readme",
+  "homepage": "https://github.com/RobinB-dev/selfer-api#readme",
   "dependencies": {
     "json-server": "^0.16.3"
   }
