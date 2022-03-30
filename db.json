@@ -16,32 +16,109 @@
   ],
   "workspace_info": [
     {
-      "name": "Oral B",
-      "imgName": "OralB.JPG",
-      "description": "En groupe, refonte du site internet de oralb.io",
-      "grade": "Note : 12.50",
-      "date": "08/02/20",
-      "siteLink": "https://robinb-dev.github.io/oralB/",
-      "contributor1Link": "https://github.com/KylianF",
-      "contributorLast": "Ikram",
-      "contributorLastLink": "https://github.com/Ikram123-cloud",
-      "contributorLastDisplay": "",
-      "detailGradeDisplay": "none"
+      "object": "page",
+      "id": "d469d581-c216-41af-943b-4e44aa018dc2",
+      "last_edited_time": "2022-01-18T16:19:00.000Z",
+      "title": "Quick Note",
+      "cover": "",
+      "emoji": "📌"
+    },
+    {
+      "object": "page",
+      "id": "68210348-af28-451f-907d-2113209aa0e8",
+      "last_edited_time": "2021-11-30T02:00:00.000Z",
+      "title": "Reading List",
+      "cover": "",
+      "emoji": "📕"
+    },
+    {
+      "object": "database",
+      "id": "7aa64fd2-3dbc-4800-aa63-31b3ab2fe551",
+      "last_edited_time": "2021-11-30T02:00:00.000Z",
+      "title": "",
+      "cover": "",
+      "emoji": "📓"
+    },
+    {
+      "object": "page",
+      "id": "b46177a6-32d5-4427-8d3b-81f8507ceba9",
+      "last_edited_time": "2021-11-30T02:00:00.000Z",
+      "title": "Getting Started",
+      "cover": "",
+      "emoji": ""
+    },
+    {
+      "object": "page",
+      "id": "ba994e58-ab64-4302-817c-1183d8635296",
+      "last_edited_time": "2021-11-30T02:00:00.000Z",
+      "title": "Personal Home",
+      "cover": "https://www.notion.so/images/page-cover/met_horace_pippin.jpg",
+      "emoji": "🏡"
+    },
+    {
+      "object": "database",
+      "id": "cf4a5fef-c557-46e5-9e59-75f77b922ca1",
+      "last_edited_time": "2021-11-30T02:00:00.000Z",
+      "title": "",
+      "cover": "",
+      "emoji": "✔️"
     }
   ],
   "notion_data": [
     {
-      "name": "Oral B",
-      "imgName": "OralB.JPG",
-      "description": "En groupe, refonte du site internet de oralb.io",
-      "grade": "Note : 12.50",
-      "date": "08/02/20",
-      "siteLink": "https://robinb-dev.github.io/oralB/",
-      "contributor1Link": "https://github.com/KylianF",
-      "contributorLast": "Ikram",
-      "contributorLastLink": "https://github.com/Ikram123-cloud",
-      "contributorLastDisplay": "",
-      "detailGradeDisplay": "none"
+      "obj": "page",
+      "id": "3380d013-bdfc-43b1-ab07-ee3ded6854ca",
+      "content": "Droit des tics",
+      "childrens": [
+        {
+          "obj": "paragraph",
+          "id": "64363ba6-088b-4d52-8000-1238ba394284",
+          "content": "Depuis",
+          "childrens": []
+        },
+        {
+          "obj": "paragraph",
+          "id": "7ea93c1d-5985-4784-90eb-3d89cef463c4",
+          "content": "Lorsqu’il était interrogé par l’un des sénateurs, le fondateur de Facebook appuyait sur le fait qu’il n’avait pas la connaissance de ces profils, car ce n’est ",
+          "childrens": []
+        },
+        {
+          "obj": "paragraph",
+          "id": "48cec939-c173-4944-941c-26886fefda8b",
+          "content": "C’est uniquement lors de sa ",
+          "childrens": []
+        },
+        {
+          "obj": "paragraph",
+          "id": "d5fc0049-6d62-461e-9639-adf63b45bf84",
+          "content": "Ces ",
+          "childrens": []
+        },
+        {
+          "obj": "paragraph",
+          "id": "5ed3b3f5-f170-4c3b-9a09-b0e84d090f55",
+          "content": "Plus simplement, ces comptes fantômes également appelés “ shadow profil “ contiennent les différentes informations, ",
+          "childrens": []
+        },
+        {
+          "obj": "paragraph",
+          "id": "08eef15c-8b6e-4e70-9aa7-76288b0a82e4",
+          "content": "En effet, Facebook possède donc les données de ses utilisateurs, mais également de ceux qui n’utilisent pas le réseau social. Ces données sont procurées à travers ",
+          "childrens": []
+        },
+        {
+          "obj": "paragraph",
+          "id": "cf815462-e5cf-4976-b83d-41ec58ff3978",
+          "content": "Elles peuvent provenir des ",
+          "childrens": []
+        },
+        {
+          "obj": "paragraph",
+          "id": "7db0bcaa-5b5c-4342-a7c4-87da1c80db68",
+          "content": "Dans ce cas, deux utilisateurs peuvent également être liés à travers l’adresse mail ou le numéro de téléphone d’un troisième utilisateur qu’ils ont en commun.",
+          "childrens": []
+        }
+      ]
     }
   ]
 }
